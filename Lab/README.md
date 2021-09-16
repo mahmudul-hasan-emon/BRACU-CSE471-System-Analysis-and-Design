@@ -21,6 +21,6 @@ Content :
 
 Denonstration video link : https://youtu.be/ws1bmw9ZLwI
 
-Presentation Slide : [COVID Patient Tracker slide.pptx](https://github.com/mahmudul-hasan-emon/CSE471-System-Analysis-and-Design/files/7175147/COVID.Patient.Tracker.slide.pptx)
+Presentation Slide : [Click here for presentation slide](https://github.com/mahmudul-hasan-emon/CSE471-System-Analysis-and-Design/files/7175147/COVID.Patient.Tracker.slide.pptx)
 
 Final Report : [COVID Patient Tracker report.pdf](https://github.com/mahmudul-hasan-emon/CSE471-System-Analysis-and-Design/files/7175149/COVID.Patient.Tracker.report.pdf)
